@@ -9,6 +9,7 @@ I wanted a lightweight system that didn't require me to pay for anything. As I'm
 ## How to setup
 
 Basically, make yourself a github pages repository by naming the repository the format of:
+
 ~~~~
 <username>.github.io
 ~~~~

@@ -16,7 +16,7 @@ author:
   name:           'Shen Wang'
   url:            
 
-gems:             [jekyll-paginate]
+gems:             [jekyll-paginate, jekyll-gist]
 paginate:         5
 
 
