@@ -81,7 +81,6 @@ kramdown:
   input: GFM
 ~~~
 
-
 #### 3. 
 
 ~~~
@@ -94,6 +93,10 @@ I personally use rouge so just add to the _config.yml:
 ~~~
 highlighter: rouge
 ~~~
+
+### CNAME Changes
+
+In the CNAME folder replace the current url with your own personal websites URL. This will prevent a build error on github pages where the CNAME of lanyon.getpoole.com is already taken.
 
 ## Serving Jekyll
 
