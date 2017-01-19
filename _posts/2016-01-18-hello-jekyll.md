@@ -96,7 +96,7 @@ highlighter: rouge
 
 ### CNAME Changes
 
-In the CNAME folder replace the current url with your own personal websites URL. This will prevent a build error on github pages where the CNAME of lanyon.getpoole.com is already taken.
+In the CNAME folder replace the current url with nothing. Leaving it empty if you just want to publish to a github.io page.
 
 ## Serving Jekyll
 
